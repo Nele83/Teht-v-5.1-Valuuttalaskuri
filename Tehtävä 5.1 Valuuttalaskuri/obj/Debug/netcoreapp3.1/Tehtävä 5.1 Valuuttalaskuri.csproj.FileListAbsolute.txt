@@ -1,0 +1,13 @@
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\bin\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.exe
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\bin\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.deps.json
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\bin\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.runtimeconfig.json
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\bin\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.runtimeconfig.dev.json
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\bin\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.dll
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\bin\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.pdb
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\obj\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.csprojAssemblyReference.cache
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\obj\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.csproj.CoreCompileInputs.cache
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\obj\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.AssemblyInfoInputs.cache
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\obj\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.AssemblyInfo.cs
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\obj\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.dll
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\obj\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.pdb
+C:\Users\nele.neuhof\source\repos\Tehtävä 5.1 Valuuttalaskuri\Tehtävä 5.1 Valuuttalaskuri\obj\Debug\netcoreapp3.1\Tehtävä 5.1 Valuuttalaskuri.genruntimeconfig.cache
