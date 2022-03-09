@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Tehtävä_5._2_Käyttäjän_iän_määritys
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //esitetään muuttuja a, b ja c numeroarvoksi.
+            int a, b, c;
+
+            //Annetaan muuttujalle arvo.
+            Console.Write("Anna arvo a:");
+            a = int.Parse(Console.ReadLine());
+
+            Console.Write("Anna arvo b:");
+            b = int.Parse(Console.ReadLine());
+
+            Console.Write("Anna arvo c:");
+            c = int.Parse(Console.ReadLine());
+            //Haetaan suurin arvo ja tulostetaan se.
+            if (a>c)
+            {
+                if (a>c)
+                {
+                    Console.WriteLine("Suurin on " + a);
+                }
+                else if(a<c && b < c)
+                {
+                    Console.WriteLine("Suurin on " + c);
+                }                
+            }
+            else
+            {
+                Console.WriteLine("Suurempi on " + c);
+            }
+
+        }
+    }
+}
